@@ -1,4 +1,4 @@
-# Generative-AI-workshop
+# Generative AI Workshop
 Day 1: Introduction to transformer and LLMs
 
 Clone this repository using: 
